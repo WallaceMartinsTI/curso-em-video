@@ -90,7 +90,8 @@ li > a:nth-child(n+2) {
   margin-left: 1em;
 }
 
-.lista-exercicios > ul > li {
+.lista-exercicios > ul > li,
+.lista-desafios > ul > li {
   margin-top: 1em;
 }
 
