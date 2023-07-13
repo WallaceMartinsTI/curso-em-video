@@ -113,3 +113,6 @@ ao utilizar a "blockquote" coloque o atributo "cite" e o link do autor;
 
 -> ex025
 * Formulários.
+
+-> ex026
+* Media Queries.
