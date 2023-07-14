@@ -116,3 +116,29 @@ ao utilizar a "blockquote" coloque o atributo "cite" e o link do autor;
 
 -> ex026
 * Media Queries.
+
+LISTA DE DESAFIOS
+
+-> Ded005
+* Criação de uma tela de perfil social, dados do professor Gustavo Guanabara.
+
+-> Def006
+* Página com dicas de quais Tags usar em HTML.
+
+-> Def010
+* Página com dicas de quais Tags usar em HTML.
+
+-> Def012
+* Projeto Cordel (efeito parallax);
+
+-> Def013
+Exercício com tabela (uso de colspan, rowspan)
+
+-> Def014
+* Tabela sobre média por disciplinas de exatas e humanas.
+
+-> Def015
+* Criação da tela de celular que carrega uma imagem das redes sociais através de iframe.
+
+-> Def016
+* Criação de tela de login responsiva.
