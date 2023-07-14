@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DETRAN</title>
+  </head>
+  <body>
+    <h1>Identificador de Estrangeiros</h1>
+    País de origem: <input type="text" name="txtorig" id="txtorig" />
+    <input type="button" value="Verificar" onclick="verificar()" />
+    <div id="res"></div>
+    <script>
+      function verificar() {
+        var txtorig = window.document.querySelector("input#txtorig");
+        var res = window.document.querySelector("div#res");
+        var origem = txtorig.value;
+        res.innerHTML = `<p>Seu país de origem é <strong>${origem}</strong></p>`;
+        if (origem != "Brasil") {
+          res.innerHTML += `<p>Você é Estrangeiro!`;
+        } else {
+          res.innerHTML += `<p>Você é Brasileiro</p>`;
+        }
+      }
+    </script>
+  </body>
+</html>
