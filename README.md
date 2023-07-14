@@ -186,3 +186,7 @@ Exercício com tabela (uso de colspan, rowspan)
 -> Def016
 
 - Criação de tela de login responsiva.
+
+## Licença
+
+Este projeto está sob a Licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais detalhes.
