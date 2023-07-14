@@ -62,11 +62,11 @@ nav a {
   color: var(--title-color);
 }
 
-.underline-link p {
+.underline-link > p {
   position: relative;
 }
 
-.underline-link p::after {
+.underline-link > p::after {
   content: '';
   position: absolute;
   left: 0;
@@ -77,7 +77,7 @@ nav a {
   transition: width 0.3s ease;
 }
 
-.underline-link p:hover::after {
+.underline-link > p:hover::after {
   width: 100%;
 }
 
@@ -145,4 +145,19 @@ li > a:nth-child(n+2) {
 
 #voltar-ao-topo > p:hover::after {
   width: 100%;
+}
+
+footer {
+  background-color: var(--background-color);
+  color: white;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer a {
+  padding: 1px 3px;
+  text-decoration: none;
+  color: var(--title-color);
 }
