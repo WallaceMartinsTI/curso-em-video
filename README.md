@@ -173,7 +173,8 @@ Acesse o repositório online clicando [aqui](https://wallacemartinsti.github.io/
 - Projeto Cordel (efeito parallax);
 
 -> Def013
-Exercício com tabela (uso de colspan, rowspan)
+
+- Exercício com tabela (uso de colspan, rowspan);
 
 -> Def014
 
