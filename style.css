@@ -91,7 +91,9 @@ li > a:nth-child(n+2) {
 }
 
 .lista-exercicios > ul > li,
-.lista-desafios > ul > li {
+.lista-desafios > ul > li,
+.lista-aulas-javascript > ul > li,
+.lista-desafios-javascript > ul > li {
   margin-top: 1em;
 }
 
@@ -154,6 +156,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 2em;
 }
 
 footer a {

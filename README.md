@@ -24,7 +24,7 @@ Acesse o repositório online clicando [aqui](https://wallacemartinsti.github.io/
 - Formatos: <br>
   Principalmente JPEG (mais compacto) e PNG (melhor qualidade e pode ser transparente), podendo utilizar também GIF e SVG;
 
-#### LISTA DE EXERCÍCIOS
+#### LISTA DE EXERCÍCIOS HTML E CSS
 
 -> ex001
 
@@ -154,9 +154,9 @@ Acesse o repositório online clicando [aqui](https://wallacemartinsti.github.io/
 
 - Media Queries.
 
-#### LISTA DE EXERCÍCIOS
+#### LISTA DE DESAFIOS HTML E CSS
 
--> Ded005
+-> Def005
 
 - Criação de uma tela de perfil social, dados do professor Gustavo Guanabara.
 
@@ -187,6 +187,72 @@ Acesse o repositório online clicando [aqui](https://wallacemartinsti.github.io/
 -> Def016
 
 - Criação de tela de login responsiva.
+
+#### LISTA DE AULAS JAVASCRIPT
+
+-> Aula04
+
+- Primeiro script
+
+-> Aula 06
+
+- Comandos básicos
+
+-> Aula 09
+
+- Primeiros passos com DOM
+
+-> Aula10
+
+- Eventos DOM.
+
+-> Aula11
+
+- Exercício de sistema de multas.
+
+-> Aula12
+
+- Condicionais (if, else, if else, switch).
+
+-> Aula13
+
+- Estrutura de repetição (while, do while).
+
+-> Aula14
+
+- Estrutura de repetição (for)
+
+-> Aula15
+
+- Arrays.
+
+-> Aula16
+
+- Funções.
+
+-> Aula17
+
+- Objetos.
+
+#### LISTA DE DESAFIOS JAVASCRIPT
+
+-> Desafio Aula11
+
+- Desafio identificar se é estrangeiro.
+
+-> Desafio Aula12
+
+- Ex014 desafio Hora do dia;
+- Ex015 desafio Verificador de idade;
+
+-> Desafio Aula14
+
+- Ex016 desafio Contagem em passos;
+- Ex017 desafio Tabuada;
+
+-> Desafio Aula16
+
+- Ex018 desafio Analisador de números.
 
 ## Licença
 
